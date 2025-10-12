@@ -19,31 +19,38 @@ Ce dépôt contient uniquement des **captures d’écran illustrant l’interfac
 Voici quelques images de l’application :
 
 ![Interface de connexion utilisateur de l’application](interface%20connexion.png)
-**Interface de connexion utilisateur de l’application**
+**Interface de connexion utilisateur de l’application**  
+
 
 
 ![Interface d’inscription de l’application](interface%20insription.png)
-**Interface d’inscription de l’application**
+**Interface d’inscription de l’application**  
+
 
 
 ![Interface principale du chatbot après connexion](interface%20chatbot.png)
-**Interface principale du chatbot après connexion**
+**Interface principale du chatbot après connexion**  
+
 
 
 ![Détection d’une forte positivité dans un commentaire sur l’installation du VDSL](analyse%20de%20sentiments%20installation%20du%20VDSL.png)
-**Détection d’une forte positivité dans un commentaire sur l’installation du VDSL**
+**Détection d’une forte positivité dans un commentaire sur l’installation du VDSL**  
+
 
 
 ![Détection d’une forte négativité dans un commentaire sur l’installation de l’ADSL](analyse%20de%20sentiments%20installation%20de%20ADSL.png)
-**Détection d’une forte négativité dans un commentaire sur l’installation de l’ADSL**
+**Détection d’une forte négativité dans un commentaire sur l’installation de l’ADSL**  
+
 
 
 ![Répartition des sentiments des avis pour une produit donné](Avis%20sur%20la%20fibre%20optique.png)
-**Répartition des sentiments des avis pour une produit donné**
+**Répartition des sentiments des avis pour une produit donné**  
+
 
 
 ![Exemples de questions qu'on peut poser sur le chatbot](Exemples%20questions%20chatbot.png)
-**Exemples de questions qu'on peut poser sur le chatbot**
+**Exemples de questions qu'on peut poser sur le chatbot**  
+
 
 ## Perspectives d’amélioration
 
