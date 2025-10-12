@@ -18,8 +18,8 @@ Ce dépôt contient uniquement des **captures d’écran illustrant l’interfac
 
 Voici quelques images de l’application :
 
-![Interface de connexion utilisateur de l’application](interface de connexion.png)
-![Interface d’inscription de l’application](screenshot1.png)
+![Interface de connexion utilisateur de l’application](interface connexion.png)
+![Interface d’inscription de l’application](interface inscription.png)
 ![Interface principale du chatbot après connexion](interface chatbot.png)
 ![Détection d’une forte positivité dans un commentaire sur l’installation du VDSL](analyse de sentiments installation du VDSL.png)
 ![Détection d’une forte négativité dans un commentaire sur l’installation de l’ADSL](analyse de sentiments installation de ADSL.png)
